@@ -1,2 +1,2 @@
 # public-repository
-TEst repository to ttest public features
+Test repository to test public features
